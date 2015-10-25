@@ -18,7 +18,9 @@ run: java Inspector [options] [classname] <br />
 If using on a built in Java class enter a fully qualified classname. <br />
 
 If using a custom class, enter a classpath at compile and runtime to point to .class file. <br />
+ex. <br />
 
 javac -cp ".class location" Inspector.java <br />
 
+Credit for GetOpt.class to Abbas Moghtanei.
 
