@@ -11,7 +11,6 @@ Inspect Java Class for
 -a show all of the above <br />
 
 Usage: <br />
-
 compile: javac Inspector.java <br />
 run: java Inspector [options] [classname] <br />
 
