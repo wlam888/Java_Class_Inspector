@@ -22,5 +22,5 @@ ex. <br />
 
 javac -cp ".class location" Inspector.java <br />
 
-Credit for GetOpt.class to Abbas Moghtanei.
+GetOpt.class command line option parser by Abbas Moghtanei.
 
